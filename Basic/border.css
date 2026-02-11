@@ -1,0 +1,37 @@
+h1{
+    background-color: blueviolet;
+    /* border-style: solid;
+    border-width: 2px;
+    border-color: brown; 
+    border-radius: 50px;
+    width: 300px;
+    text-align: center; */
+    /* border-left: solid black 5px; */
+    border:solid black 5px;
+    border-radius: 3px;
+    width: 250px;
+    height: 100px;
+}
+span{
+    background-color: blueviolet;
+    border:solid black 5px;
+    border-radius: 3px;
+    width: 250px;
+    height: 100px;
+}
+
+.first{
+    background-color:aquamarine ;
+    border:solid black 3px;
+    width: 250px
+}
+.second{
+    background-color: blanchedalmond;
+    border:solid black 3px;
+    width: 250px
+}
+.third{
+    background-color:chartreuse ;
+    border:solid black 3px;
+    width: 250px
+}

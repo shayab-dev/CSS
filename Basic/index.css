@@ -1,0 +1,15 @@
+h1{
+    color:brown;
+}
+#para{
+    background-color: pink;
+}
+p{
+    color: blueviolet;
+    background-color: pink;
+}
+.article{
+    color: chocolate;
+    background-color: pink;
+    font-style: italic;
+}

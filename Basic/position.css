@@ -1,0 +1,22 @@
+div{
+    border: 1px solid black;
+}
+.container{
+    position: relative;
+    height: 8000px;
+    background-color: aquamarine;
+}
+
+img{
+    margin: 10px;
+}
+
+.image2{
+    /* position:absolute; */
+    
+}
+.image3{
+    position: sticky;
+    top: 100px;
+    
+}
