@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #box{
+            height: 400px;
+            width: 400px;
+            background-color: blueviolet;
+            border: 5px solid black;
+
+            /* transition-property:all;
+            transition-duration: 1s;
+            transition-delay: 1s;
+            transition-timing-function:ease-out; */
+
+            transition: all 2s ease-in 3s;
+
+
+            text-align: center;
+            font-size:40px;
+            font-style: italic;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+        }
+        #box:hover{
+            width: 800px;
+            height: 500px;
+            background-color: pink;
+        }
+    </style>
+</head>
+<body>
+    <div id="box">
+        Shayab
+    </div>
+</body>
+</html>
